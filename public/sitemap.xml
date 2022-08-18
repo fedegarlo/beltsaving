@@ -8,18 +8,28 @@
 
 
 <url>
-  <loc>https://www.beltsaving.com/</loc>
-  <lastmod>2022-04-30T16:20:40+00:00</lastmod>
+  <loc>https://beltsaving.com/</loc>
+  <lastmod>2022-07-31T21:21:46+00:00</lastmod>
   <priority>1.00</priority>
 </url>
 <url>
-  <loc>https://www.beltsaving.com/index.html</loc>
-  <lastmod>2022-04-09T16:20:40+00:00</lastmod>
+  <loc>https://beltsaving.com/help.html</loc>
+  <lastmod>2022-07-31T21:21:46+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://www.beltsaving.com/es/index.html</loc>
-  <lastmod>2022-04-30T16:20:40+00:00</lastmod>
+  <loc>https://beltsaving.com/blog/how-financial-fast-works.html</loc>
+  <lastmod>2022-07-31T21:21:46+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://beltsaving.com/blog/unlimited-savings-with-belt-infinity-mode.html</loc>
+  <lastmod>2022-07-31T21:21:46+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://beltsaving.com/blog/tricks-to-save-with-your-smartphone.html</loc>
+  <lastmod>2022-07-31T21:21:46+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 
