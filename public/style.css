@@ -20,6 +20,10 @@
 		background-image: url(images/screen-4-belt.webp);
 	}
 
+	#screen5 {
+		background-image: url(images/screen-5-belt-dark.webp);
+	}
+
 	#screen1-es {
 		background-image: url(images/screen-1-belt-dark-es.webp);
 	}
@@ -33,7 +37,11 @@
 	}
 
 	#screen4-es {
-		background-image: url(images/screen-4-belt.webp);
+		background-image: url(images/screen-4-belt-es.webp);
+	}
+
+	#screen5-es {
+		background-image: url(images/screen-5-belt-dark-es.webp);
 	}
 
 	#list .item:hover {
@@ -92,6 +100,10 @@
 		background-image: url(images/screen-4-belt.webp);
 	}
 
+	#screen5 {
+		background-image: url(images/screen-5-belt.webp);
+	}
+
 	#screen1-es {
 		background-image: url(images/screen-1-belt-es.webp);
 	}
@@ -105,7 +117,11 @@
 	}
 
 	#screen4-es {
-		background-image: url(images/screen-4-belt.webp);
+		background-image: url(images/screen-4-belt-es.webp);
+	}
+
+	#screen5-es {
+		background-image: url(images/screen-5-belt-es.webp);
 	}
 
 	#list .item:hover {
