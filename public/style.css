@@ -1,5 +1,9 @@
-.blog {
+#blog {
 	padding-top: 0px !important;
+}
+
+#blog img {
+	padding-bottom: 10px;
 }
 
 .padding-bottom {
@@ -8,6 +12,7 @@
 
 .date {
 	font-style: italic;
+	margin-bottom: 0.5rem;
 }
 
 .hero-image {
