@@ -10,6 +10,16 @@
 	font-style: italic;
 }
 
+.hero-image {
+	height: 240px;
+	background-repeat: no-repeat;
+	background-size: cover;
+	width: 100%;
+	text-align: center;
+	background-position-x: center;
+	margin: 0 auto;
+}
+
 @media (prefers-color-scheme: dark) {
 
 	#screen1 {
