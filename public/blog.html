@@ -29,10 +29,10 @@
 			$.getJSON( "blog/posts.json", function( data ) {
 				var items = [];
 				$.each( data.posts.sort(function(a,b){return new Date(b.date) - new Date(a.date);}), function( key, val ) {
-					items.push( "<article class='feature col padding-bottom row'><div class='col-12 col-md-4'><a href='"+val.url+"'><img width='100%'' src='"+val.image+"' /></a></div><div class='col-md-8'><h2>"+val.title+"</h2><p class='date'>Belt editors · "+moment(val.date).calendar()+"</p><p>"+val.description+"</p><a href="+val.url+" class='icon-link d-inline-flex align-items-center link belt'>Read more</a></div></article>" );
+					items.push( "<article class='feature col padding-bottom row'><div class='col-12 col-md-4'><a href='"+val.url+"'><img width='100%'' src='"+val.image+"' /></a></div><div class='col-md-8'><h2>"+val.title+"</h2><p class='date'>Belt editors · "+moment(val.date).format("MMM[.] Do YYYY h:mm a")+"</p><p>"+val.description+"</p><a href="+val.url+" class='icon-link d-inline-flex align-items-center link belt'>Read more</a></div></article>" );
 				});
 				$( "<div/>", {
-					html: items.slice(0, 5).join( "" )
+					html: items.slice(0, 10).join( "" )
 				}).appendTo( "#blog" );
 			});
 		</script>

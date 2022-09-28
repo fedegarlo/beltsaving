@@ -1,0 +1,19 @@
+{
+   "webcredentials":{
+      "apps":[
+         "36T5AU2J8A.com.fedegarlo.belt"
+      ]
+   },
+   "applinks": {
+        "apps": [],
+        "details": [{
+                "appID": "36T5AU2J8A.com.fedegarlo.belt",
+                "paths": [ "/savings/*"]
+            },
+            {
+                "appID": "36T5AU2J8A.com.fedegarlo.belt",
+                "paths": [ "*" ]
+            }
+        ]
+    }
+}
