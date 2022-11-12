@@ -6,13 +6,39 @@
       "**/.*",
       "**/node_modules/**"
     ],
-    "headers": [{
-      "source" : "**",
-      "headers" : [{
-        "key" : "Cache-Control",
-        "value" : "max-age=3600"
-      }]
-    }],
+    "headers": [
+      {
+        "source" : "**",
+        "headers" : [
+          {
+            "key" : "Cache-Control",
+            "value" : "max-age=3600"
+          }
+        ]
+      },{
+        "source": "/.well-known/*",
+        "headers": [
+          {
+            "key": "Content-Type", "value": "application/json"
+          },
+          {
+            "key" : "Cache-Control",
+            "value" : "max-age=0"
+          }
+        ]
+      },{
+        "source": "/apple-app-site-association",
+        "headers": [
+          {
+            "key": "Content-Type", "value": "application/json"
+          },
+          {
+            "key" : "Cache-Control",
+            "value" : "max-age=0"
+          }
+        ]
+      }
+    ],
     "i18n": {
       "root": "/"
     }

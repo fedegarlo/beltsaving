@@ -1,19 +1,15 @@
 {
-   "webcredentials":{
-      "apps":[
-         "36T5AU2J8A.com.fedegarlo.belt"
-      ]
-   },
-   "applinks": {
-        "apps": [],
-        "details": [{
-                "appID": "36T5AU2J8A.com.fedegarlo.belt",
-                "paths": [ "/savings/*"]
-            },
-            {
-                "appID": "36T5AU2J8A.com.fedegarlo.belt",
-                "paths": [ "*" ]
-            }
-        ]
-    }
+  "applinks": {
+      "details": [
+           {
+             "appIDs": [ "36T5AU2J8A.com.fedegarlo.belt" ],
+             "components": [
+               {
+                  "/": "/savings/*",
+                  "comment": "Matches any URL with a path that starts with /savings/."
+               }
+             ]
+           }
+       ]
+   }
 }
