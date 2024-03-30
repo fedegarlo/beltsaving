@@ -12,28 +12,28 @@
             "title": "Hello Shortcuts integration",
             "date": "2022-09-20T21:18:56.782Z",
             "description": "We introduced integration with Shortcuts so you can use Belt more easily. Start and end your savings with Siri or record your status in the savings journal. A step forward towards achieving your goals effortlessly.",
-            "url":"https://www.beltsaving.com/blog/shortcuts.html"
+            "url":"blog/shortcuts.html"
         },
         {
             "image": "blog/img/infinity.png",
             "title": "Unlimited savings with Belt's Infinity Mode",
             "date": "2022-09-01T13:24:56.782Z",
             "description": "Financial fasting is a very good solution to start saving. When you want to go one step further, we have the tool you need to fix your habit and achieve your goals faster.",
-            "url":"https://www.beltsaving.com/blog/unlimited-savings-with-belt-infinity-mode.html"
+            "url":"blog/unlimited-savings-with-belt-infinity-mode.html"
         },
         {
             "image": "blog/img/coins_cuesta.png",
             "title": "How Financial Fast works",
             "date": "2022-08-15T07:48:56.782Z",
             "description": "We've just released a new app that lets you set intermittent savings periods where you spend nothing and save money effortlessly. We have called this new app Belt, for 'tighten your belt', and it is available for iPhone.",
-            "url":"https://www.beltsaving.com/blog/how-financial-fast-works.html"
+            "url":"blog/how-financial-fast-works.html"
         },
         {
             "image": "blog/img/coins_large.png",
             "title": "Tricks to save",
             "date": "2022-08-03T12:45:56.782Z",
             "description": "Saving can be much easier if you follow a series of simple tricks. It all starts with that device in your hand. There is much more you can do than you think.",
-            "url":"https://www.beltsaving.com/blog/tricks-to-save-with-your-smartphone.html"
+            "url":"blog/tricks-to-save-with-your-smartphone.html"
         }
     ]
 }
