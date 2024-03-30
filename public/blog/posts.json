@@ -8,7 +8,7 @@
             "url":"blog/introducing-widgets.html"
         },
         {
-            "image": "/blog/img/shortcuts.png",
+            "image": "blog/img/shortcuts.png",
             "title": "Hello Shortcuts integration",
             "date": "2022-09-20T21:18:56.782Z",
             "description": "We introduced integration with Shortcuts so you can use Belt more easily. Start and end your savings with Siri or record your status in the savings journal. A step forward towards achieving your goals effortlessly.",
